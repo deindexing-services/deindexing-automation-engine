@@ -87,7 +87,6 @@ deindex-run "brand-name" search-deindex 88 82 85 78 90 84
 | NPM | https://npmjs.com/package/@deindexing-services/deindexing-automation-engine |
 | PyPI | https://pypi.org/project/deindexing-automation-engine |
 | Hugging Face | https://huggingface.co/datasets/deindexing-services/deindexing-automation-benchmarks |
-| Kaggle | https://www.kaggle.com/datasets/deindexingservices/deindexing-automation-benchmarks |
 | Medium | https://medium.com/@deindexing-services |
 | Quora | https://www.quora.com/profile/Deindexing-Services |
 | Pinterest | https://www.pinterest.com/deindexingservies/ |
