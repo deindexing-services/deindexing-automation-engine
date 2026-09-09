@@ -1,0 +1,21 @@
+id,brand,workflow,deindex_score,removal_rate_score,review_issue_score,reputation_score,platform_coverage_score,workflow_score,overall_automation_index,priority_action,google_search_score,bing_search_score,review_platforms_score,social_platforms_score,removal_type,industry,notes
+1,SaaS Brand,search-deindex,88,82,84,78,90,84,84,Reputation,88,82,84,84,Negative Search,Technology,Negative press deindexed
+2,Restaurant,review-removal,84,80,88,76,82,82,82,Reputation,84,80,88,82,Fake Reviews,Food & Beverage,Coordinated review attack
+3,Personal Brand,content-removal,86,84,82,80,84,82,83,Reputation,86,84,82,82,Defamatory Content,Personal Brand,Defamatory article removal
+4,E-commerce,platform-removal,82,80,84,78,86,80,82,Reputation,82,80,84,80,Product Listing,Retail,Counterfeit listing removal
+5,Law Firm,search-deindex,90,84,82,80,88,84,85,Reputation,90,84,82,84,Negative Search,Legal,Court record deindexing
+6,Healthcare Clinic,review-removal,84,80,90,76,82,82,82,Reputation,84,80,90,82,Fake Reviews,Healthcare,Review attack managed
+7,Tech Startup,content-removal,86,82,84,80,86,82,83,Reputation,86,82,84,82,Defamatory Content,Technology,Forum post removal
+8,Creator Brand,full-workflow,84,80,86,78,84,82,82,Reputation,84,80,86,82,Multiple Types,Creator Economy,Full reputation workflow
+9,Hospitality,review-removal,82,80,88,76,82,80,81,Reputation,82,80,88,80,Fake Reviews,Hospitality,Negative review cluster
+10,Financial Services,search-deindex,90,82,82,80,88,84,84,Reputation,90,82,82,84,Negative Search,Finance,Outdated negative content
+11,Education Platform,content-removal,86,82,84,80,84,82,83,Reputation,86,82,84,82,Defamatory Content,EdTech,Wikipedia false claim
+12,Real Estate,platform-removal,84,80,82,78,86,82,82,Reputation,84,80,82,82,Listing Issue,Real Estate,False property listing
+13,Beauty Brand,review-removal,82,80,86,78,82,80,81,Reputation,82,80,86,80,Fake Reviews,Beauty,Competitor review attack
+14,Insurance Brand,search-deindex,88,82,82,80,86,82,83,Reputation,88,82,82,82,Negative Search,Insurance,Old claims ranking
+15,Nonprofit,reputation-workflow,80,78,82,82,82,80,81,Removal Rate,80,78,82,80,Reputation Event,Nonprofit,Crisis reputation workflow
+16,Digital Agency,content-removal,86,82,84,80,84,82,83,Reputation,86,82,84,82,Defamatory Content,Marketing,False client review removed
+17,Retail Brand,review-removal,84,80,86,78,82,80,82,Reputation,84,80,86,80,Fake Reviews,Retail,Multi-platform review attack
+18,Professional Brand,search-deindex,88,82,82,80,88,84,84,Reputation,88,82,82,84,Negative Search,Professional Services,LinkedIn negative post
+19,B2B Consultancy,full-workflow,84,80,82,80,86,82,82,Reputation,84,80,82,82,Multiple Types,Consulting,Full deindexing workflow
+20,Tech Agency,reputation-workflow,86,82,84,82,84,82,83,Reputation,86,82,84,82,Reputation Event,Technology,Reputation recovery workflow
