@@ -51,11 +51,7 @@
       "relation": "isSupplementTo",
       "scheme": "url"
     },
-    {
-      "identifier": "https://www.kaggle.com/datasets/deindexingservices/deindexing-automation-benchmarks",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    },
+    
     {
       "identifier": "https://medium.com/@deindexing-services",
       "relation": "isSupplementTo",
