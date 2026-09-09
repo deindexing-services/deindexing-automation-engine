@@ -12,14 +12,14 @@ The engine provides structured automation workflows for the complete deindexing 
 
 ## Key Capabilities
 
-- **Search Deindexing Automation** — Automate removal requests to Google, Bing, and other major search engines
-- **Content Removal Workflows** — Structured workflows for submitting and tracking content removal requests
-- **Review Issue Management** — Identify and manage fake review issues, review attacks, and review platform disputes
-- **Reputation Workflow Automation** — Automate online reputation monitoring and intervention workflows
-- **Platform Coverage** — Manage deindexing across search engines, social platforms, and review sites
-- **Request Tracking** — Track submission status, approval rates, and deindexing confirmation
-- **Workflow Orchestration** — Orchestrate multi-step deindexing and removal workflows at scale
-- **Confidence Scoring** — Score removal request strength and predict deindexing success likelihood
+- **Search Deindexing Automation** : Automate removal requests to Google, Bing, and other major search engines
+- **Content Removal Workflows** : Structured workflows for submitting and tracking content removal requests
+- **Review Issue Management** : Identify and manage fake review issues, review attacks, and review platform disputes
+- **Reputation Workflow Automation** : Automate online reputation monitoring and intervention workflows
+- **Platform Coverage** : Manage deindexing across search engines, social platforms, and review sites
+- **Request Tracking** : Track submission status, approval rates, and deindexing confirmation
+- **Workflow Orchestration** : Orchestrate multi-step deindexing and removal workflows at scale
+- **Confidence Scoring** : Score removal request strength and predict deindexing success likelihood
 
 ## Workflow Types
 
@@ -34,12 +34,12 @@ The engine provides structured automation workflows for the complete deindexing 
 
 ## Features
 
-- Deindex Score — measures deindexing request strength and submission quality
-- Removal Rate Score — tracks content removal approval and success rates
-- Review Issue Score — evaluates review dispute strength and platform coverage
-- Reputation Score — measures online reputation health and intervention effectiveness
-- Platform Coverage Score — assesses coverage across search and platform removal channels
-- Workflow Score — evaluates automation workflow efficiency and completion rates
+- Deindex Score : measures deindexing request strength and submission quality
+- Removal Rate Score : tracks content removal approval and success rates
+- Review Issue Score : evaluates review dispute strength and platform coverage
+- Reputation Score : measures online reputation health and intervention effectiveness
+- Platform Coverage Score : assesses coverage across search and platform removal channels
+- Workflow Score : evaluates automation workflow efficiency and completion rates
 - CLI support in Node.js and Python
 - Benchmark dataset included (20 deindexing automation cases)
 - Lightweight, publish-ready, minimal dependencies
