@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@deindexing-services/deindexing-automation-engine)](https://npmjs.com/package/@deindexing-services/deindexing-automation-engine)
 [![PyPI](https://img.shields.io/pypi/v/deindexing-automation-engine)](https://pypi.org/project/deindexing-automation-engine)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22671557.svg)](https://doi.org/10.5281/zenodo.22671557)
 
 Deindexing Automation Engine is an automation engine for managing search deindexing, content removal requests, review issues, and online reputation workflows across major platforms. Built by [Deindexing.Services](https://deindexing.services).
 
@@ -118,7 +118,7 @@ Deindexing Automation Engine · Search Deindexing · Content Removal · Review R
 | PyPI | https://pypi.org/project/deindexing-automation-engine |
 | Hugging Face | https://huggingface.co/datasets/deindexing-services/deindexing-automation-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/deindexingservices/deindexing-automation-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/22671557 |
 | Docs | https://deindexing-automation-engine.readthedocs.io |
 | Medium | https://medium.com/@deindexing-services |
 | Quora | https://www.quora.com/profile/Deindexing-Services |
