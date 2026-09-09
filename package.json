@@ -1,0 +1,37 @@
+{
+  "name": "@deindexing-services/deindexing-automation-engine",
+  "version": "1.0.0",
+  "description": "Automation engine for managing search deindexing, content removal requests, review issues, and online reputation workflows across major platforms.",
+  "main": "index.js",
+  "bin": {
+    "deindex-run": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deindexing-automation-engine",
+    "search-deindexing",
+    "content-removal",
+    "review-removal",
+    "online-reputation",
+    "reputation-workflow",
+    "platform-removal",
+    "deindexing-services",
+    "reputation-management",
+    "content-takedown",
+    "google-deindex",
+    "review-dispute"
+  ],
+  "author": "Deindexing.Services",
+  "license": "MIT",
+  "homepage": "https://deindexing.services",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deindexing-services/deindexing-automation-engine"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

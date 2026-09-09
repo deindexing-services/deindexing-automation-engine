@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Deindexing Automation Engine",
+  "description": "Automation engine for managing search deindexing, content removal requests, review issues, and online reputation workflows across major platforms.",
+  "url": "https://deindexing.services",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Deindexing.Services",
+    "url": "https://deindexing.services",
+    "sameAs": [
+      "https://deindexing.services",
+      "https://github.com/deindexing-services",
+      "https://npmjs.com/package/@deindexing-services/deindexing-automation-engine",
+      "https://pypi.org/project/deindexing-automation-engine",
+      "https://huggingface.co/datasets/deindexing-services/deindexing-automation-benchmarks",
+      "https://www.kaggle.com/datasets/deindexingservices/deindexing-automation-benchmarks",
+      "https://deindexing-services.github.io/deindexing-automation-engine/",
+      "https://medium.com/@deindexing-services",
+      "https://www.quora.com/profile/Deindexing-Services",
+      "https://www.pinterest.com/deindexingservies/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/deindexing-services/deindexing-automation-engine",
+  "keywords": [
+    "Deindexing Automation Engine",
+    "Search Deindexing",
+    "Content Removal",
+    "Review Removal",
+    "Online Reputation",
+    "Reputation Workflow",
+    "Platform Removal",
+    "Deindexing Services"
+  ]
+}

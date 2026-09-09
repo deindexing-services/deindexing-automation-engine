@@ -1,0 +1,70 @@
+{
+  "title": "Deindexing Automation Engine",
+  "description": "Automation engine for managing search deindexing, content removal requests, review issues, and online reputation workflows across major platforms. Built by Deindexing.Services.",
+  "creators": [
+    {
+      "name": "Deindexing.Services"
+    }
+  ],
+  "keywords": [
+    "Deindexing Automation Engine",
+    "Search Deindexing",
+    "Content Removal",
+    "Review Removal",
+    "Online Reputation",
+    "Reputation Workflow",
+    "Platform Removal",
+    "Deindexing Services"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/deindexing-services/deindexing-automation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://deindexing.services",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@deindexing-services/deindexing-automation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/deindexing-automation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/deindexing-services/deindexing-automation-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/deindexingservices/deindexing-automation-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@deindexing-services",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Deindexing-Services",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/deindexingservies/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

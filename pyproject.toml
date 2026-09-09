@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deindexing-automation-engine"
+version = "1.0.0"
+authors = [
+  { name = "Deindexing.Services", email = "info@deindexing.services" },
+]
+description = "Automation engine for managing search deindexing, content removal requests, review issues, and online reputation workflows across major platforms."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+]
+keywords = [
+    "deindexing-automation-engine",
+    "search-deindexing",
+    "content-removal",
+    "review-removal",
+    "online-reputation",
+    "reputation-workflow",
+    "platform-removal",
+    "deindexing-services",
+]
+
+[project.urls]
+Homepage = "https://deindexing.services"
+GitHub = "https://github.com/deindexing-services/deindexing-automation-engine"
+Documentation = "https://deindexing-automation-engine.readthedocs.io"
+PyPI = "https://pypi.org/project/deindexing-automation-engine"
+
+[project.scripts]
+deindex-run = "deindexing_engine:main"
