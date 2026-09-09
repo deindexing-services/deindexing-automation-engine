@@ -117,7 +117,6 @@ Deindexing Automation Engine · Search Deindexing · Content Removal · Review R
 | NPM | https://npmjs.com/package/@deindexing-services/deindexing-automation-engine |
 | PyPI | https://pypi.org/project/deindexing-automation-engine |
 | Hugging Face | https://huggingface.co/datasets/deindexing-services/deindexing-automation-benchmarks |
-| Kaggle | https://www.kaggle.com/datasets/deindexingservices/deindexing-automation-benchmarks |
 | Zenodo | https://zenodo.org/records/22671557 |
 | Docs | https://deindexing-automation-engine.readthedocs.io |
 | Medium | https://medium.com/@deindexing-services |
